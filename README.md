@@ -1,7 +1,7 @@
 # Implementing_BFS
 
 
-# Word Ladder Lab - A Graph Theory Problem 
+
 
 ## Overview
 This project is an implementation of the word ladder problem using a breadth-first search (BFS) algorithm. 
